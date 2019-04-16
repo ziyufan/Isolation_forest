@@ -1,9 +1,10 @@
 # Isolation_forest
 ## Goal:
-The goal of this project is to implement the original Isolation Forest algorithm by Fei Tony Liu, Kai Ming Ting, and Zhi-Hua Zhou.
+This project is an implementation of the original Isolation Forest algorithm by Fei Tony Liu, Kai Ming Ting, and Zhi-Hua Zhou.
 ## Algorithm:
-Anomalies are few and different. Isolation forest algorithm focus on those anomaly points.
+Anomalies are few and different. Isolation forest algorithm focus on those anomaly points.                       
 For your convenience, here are the algorithms extracted from the Liu et al paper:
+
 
 ## Example:
 
